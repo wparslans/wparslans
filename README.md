@@ -16,6 +16,9 @@ I'm a **Captain of PHP**, **WordPress**, and **JavaScript** with a passion for b
 - Enhancing performance in WordPress-based websites.
 - Exploring headless CMS solutions using WordPress as a backend.
 - Building scalable JavaScript applications.
+- WordPress scalable application buildup
+- Create WordPress application with smart and reuseable work.
+- Existing issue fixes and changing of internal code structures.
 
 ### 🌱 What I'm Learning:
 - Deep diving into principal architechture of software and working on smart work rather than hard work.
