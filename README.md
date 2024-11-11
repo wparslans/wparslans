@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [wparslans] 👋
 
 I'm a **Captain of PHP**, **WordPress**, and **JavaScript** with a passion for building scalable solutions and crafting excellent web experiences. I specialize in backend and frontend development, particularly in the WordPress ecosystem and JavaScript frameworks.
 
