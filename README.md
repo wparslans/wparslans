@@ -27,4 +27,4 @@ I'm a **Captain of PHP**, **WordPress**, and **JavaScript** with a passion for b
 - I consider myself a "Captain" of **PHP**, **WordPress**, and **JavaScript** because I enjoy steering projects to success with these technologies! 🚢
 
 
-❤️(https://github.com/wparslan)
+❤️ Old Git: https://github.com/wparslan
